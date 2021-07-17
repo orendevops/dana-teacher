@@ -24,7 +24,7 @@ export const Contact = (props) => {
     console.log(name, email, message)
     emailjs
       .sendForm(
-        'service_1sjevko', 'template_ie75hf7', 'user_os', e.target, 'user_essV1uVXwiBpFUKi1nPDE'
+        'service_1sjevko', 'template_ie75hf7', e.target, 'user_essV1uVXwiBpFUKi1nPDE'
       )
       .then(
         (result) => {
