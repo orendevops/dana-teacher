@@ -1,5 +1,5 @@
 body, html {
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Rubik', sans-serif;
 	text-rendering: optimizeLegibility !important;
 	-webkit-font-smoothing: antialiased !important;
 	color: #777;
@@ -10,12 +10,12 @@ body, html {
 }
 
 h2, h3, h4 {
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Rubik', sans-serif;
 }
 h2 {
-	text-transform: uppercase;
+	
 	margin: 0 0 20px 0;
-	font-weight: 800;
+	font-weight: 500;
 	font-size: 36px;
 	color: #333;
 }
@@ -77,14 +77,14 @@ hr {
 	box-shadow: 0 0 10px rgba(0,0,0,0.15)
 }
 #menu a.navbar-brand {
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Rubik', sans-serif;
 	font-size: 24px;
-	font-weight: 700;
+	font-weight: 500;
 	color: #333;
 	text-transform: uppercase;
 }
 #menu.navbar-default .navbar-nav > li > a {
-	font-family: 'Lato', sans-serif;
+	font-family: 'Rubik', sans-serif;
 	text-transform: uppercase;
 	color: #555;
 	font-size: 15px;
@@ -154,7 +154,7 @@ hr {
 	font-size: 18px;
 }
 .btn-custom {
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Rubik', sans-serif;
 	text-transform: uppercase;
 	color: #fff;
 	background-color: #5ca9fb;
@@ -199,10 +199,10 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	background: rgba(0,0,0,0.2);
 }
 .intro h1 {
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Rubik', sans-serif;
 	color: #fff;
 	font-size: 82px;
-	font-weight: 700;
+	font-weight: 500;
 	text-transform: uppercase;
 	margin-top: 0;
 	margin-bottom: 10px;
@@ -271,7 +271,7 @@ header .intro-text {
 }
 #about .about-text li:before {
 	content: '\f00c';
-	font-family: 'FontAwesome';
+	font-family: 'Rubik';
 	color: #5ca9fb;
 	font-size: 11px;
 	font-weight: 300;
@@ -476,7 +476,7 @@ header .intro-text {
 label {
 	font-size: 12px;
 	font-weight: 400;
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Rubik',;
 	float: left;
 }
 #contact .form-control {

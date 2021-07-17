@@ -10,6 +10,8 @@ import { Contact } from './components/contact'
 import JsonData from './data/data.json'
 import SmoothScroll from 'smooth-scroll'
 
+import MultilineTextFields from './components/input-text/input-field.component'
+
 export const scroll = new SmoothScroll('a[href*="#"]', {
   speed: 1300,
   speedAsDuration: true,
@@ -31,6 +33,7 @@ const App = () => {
       <Gallery />
       <Testimonials data={landingPageData.Testimonials} />
       <Contact data={landingPageData.Contact} />
+      <MultilineTextFields/>
     </div>
   )
 }
