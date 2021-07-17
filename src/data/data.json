@@ -1,142 +1,142 @@
 {
-    "Header": {
-
-        "title": "דנה גלעד מורה פרטית",
-        "paragraph": "מלווה ילדים ונוער בדרך ייחודית עם תוצאות ברורות, ניסיון של 5 שנים."
-
-    },
-    "About": {
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "Why": [
-            "Lorem ipsum dolor",
-            "Tempor incididunt",
-            "Lorem ipsum dolor",
-            "Incididunt ut labore"
-        ],
-        "Why2": [
-            "Aliquip ex ea commodo",
-            "Lorem ipsum dolor",
-            "Exercitation ullamco",
-            "Lorem ipsum dolor"
-        ]
-    },
-    "Services": [{
-            "icon": "fa fa-wordpress",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-cart-arrow-down",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-cloud-download",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-language",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-plane",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-pie-chart",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        }
-
-
+  "Header": {
+    "title": "דנה גלעד מורה פרטית",
+    "paragraph": "מלווה ילדים ונוער בדרך ייחודית עם תוצאות ברורות, ניסיון של 5 שנים."
+  },
+  "About": {
+    "paragraph": "הסיבות לבחור בי הן ככה וככה כי אני ממש טובה ומוצלחת ואלופה עם מלאן ניסיון ",
+    "Why": [
+      "כי אני הכי טובה",
+      "כי אני הכי טובה",
+      "כי אני הכי טובה",
+     "כי אני הכי טובה"
     ],
-    "Testimonials": [{
-            "img": "img/testimonials/01.jpg",
-            "text": "\"בזכות דנה סיימתי בגרות מלאה, היא תמיד מגיעה עם אנרגיה שמחה, ממליץ בחום\"",
-            "name": "יצחק תשובה",
-            "location": "תל-אביב"
-        },
-        {
-            "img": "img/testimonials/02.jpg",
-            "text": "\"בתחילת שנה הייתי ב4 יח' פיזיקה ובזכות הלימוד עם דנה סיימתי את השנה ב5 יח'\"",
-            "name": "אלברט אינשטיין",
-            "location": "תל-אביב"
-        },
-        {
-            "img": "img/testimonials/03.jpg",
-            "text": "\",המורה הכי טובה שיש להיסטוריה וכימיה,המורה הכי טובה שיש להיסטוריה וכימיה\"",
-            "name": "עידן עמדי",
-            "location": "נתניה"
-        },
-        {
-            "img": "img/testimonials/04.jpg",
-            "text": "\"ניסיתי הרבה מורים אבל דנה הייתה היחידה שהצליחה לתפוס את הריכוז שלי אז המון תודה, לא תצטערו\"",
-            "name": "ליהי גרינר",
-            "location": "פתח-תקווה"
-        },
-        {
-            "img": "img/testimonials/05.jpg",
-            "text": "\"את בני בן 10 דנה הצליחה בדרכה המיוחדת לחזק ולהקנות כישורי למידה, ממליץ.\"",
-            "name": "האן טה סול",
-            "location": "קריית-אונו"
-        },
-        {
-            "img": "img/testimonials/06.jpg",
-            "text": "\"דנה מלווה אותי מזה שלוש שנים, לא הייתי רואה את עצמי עוברת את התיכון בלעדיה, תודה.\"",
-            "name": "יונית לוי",
-            "location": "רמת-אפעל"
-        }
-    ],
-    "Team": [{
-            "img": "img/team/01.jpg",
-            "name": "John Doe",
-            "job": "Director"
-        },
-        {
-            "img": "img/team/02.jpg",
-            "name": "Mike Doe",
-            "job": "Senior Designer"
-        }, {
-            "img": "img/team/03.jpg",
-            "name": "Jane Doe",
-            "job": "Senior Designer"
-        },
-        {
-            "img": "img/team/04.jpg",
-            "name": "Karen Doe",
-            "job": "Project Manager"
-        }
-    ],
-    "Contact": {
-        "address": "46301 רמת אפעל, רמת-גן",
-        "phone": "052 22 333 45",
-        "email": "danagilad@hotmail.com",
-        "facebook": "fb.com",
-        "twitter": "twitter.com"
-        
-    },
-    "Features": [{
-            "icon": "fa fa-comments-o",
-            "title": "הבנה מעמיקה בהתפתחות הילד",
-            "text": "בעלת תואר ראשון בפסיכולוגיה עם התמחות בהתפתחות הילד, עבודת מאסטר בלה בלה"
-        },
-        {
-            "icon": "fa fa-bullhorn",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-        },
-        {
-            "icon": "fa fa-group",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-        },
-        {
-            "icon": "fa fa-magic",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-        }
+    "Why2": [
+      "ואללה ככה אני בסט",
+      "ואללה ככה אני בסט",
+      "ואללה ככה אני בסט",
+      "ואללה ככה אני בסט"
     ]
+  },
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "אופציה 1",
+      "text": "מילים, מילים! תוכן מילים.מילים, מילים! תוכן מילים.מילים, מילים! תוכן מילים.מילים, מילים! תוכן מילים.מילים, מילים! תוכן מילים.מילים, מילים! תוכן מילים."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "אופציה 2",
+      "text": "מילים, מילים! תוכן מילים.מילים, מילים! תוכן מילים.מילים, מילים! תוכן מילים.מילים, מילים! תוכן מילים.מילים, מילים! תוכן מילים.מילים, מילים! תוכן מילים."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "אופציה 3",
+      "text": "מילים, מילים! תוכן מילים.מילים, מילים! תוכן מילים.מילים, מילים! תוכן מילים.מילים, מילים! תוכן מילים.מילים, מילים! תוכן מילים.מילים, מילים! תוכן מילים."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "אופציה 4",
+      "text": "מילים, מילים! תוכן מילים.מילים, מילים! תוכן מילים.מילים, מילים! תוכן מילים.מילים, מילים! תוכן מילים.מילים, מילים! תוכן מילים.מילים, מילים! תוכן מילים."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "אופציה 5",
+      "text": "מילים, מילים! תוכן מילים.מילים, מילים! תוכן מילים.מילים, מילים! תוכן מילים.מילים, מילים! תוכן מילים.מילים, מילים! תוכן מילים.מילים, מילים! תוכן מילים."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "אופציה 6",
+      "text": "מילים, מילים! תוכן מילים.מילים, מילים! תוכן מילים.מילים, מילים! תוכן מילים.מילים, מילים! תוכן מילים.מילים, מילים! תוכן מילים.מילים, מילים! תוכן מילים."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"בזכות דנה סיימתי בגרות מלאה, היא תמיד מגיעה עם אנרגיה שמחה, ממליץ בחום\"",
+      "name": "יצחק תשובה",
+      "location": "תל-אביב"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"בתחילת שנה הייתי ב4 יח' פיזיקה ובזכות הלימוד עם דנה סיימתי את השנה ב5 יח'\"",
+      "name": "אלברט אינשטיין",
+      "location": "תל-אביב"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\",המורה הכי טובה שיש להיסטוריה וכימיה,המורה הכי טובה שיש להיסטוריה וכימיה\"",
+      "name": "עידן עמדי",
+      "location": "נתניה"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"ניסיתי הרבה מורים אבל דנה הייתה היחידה שהצליחה לתפוס את הריכוז שלי אז המון תודה, לא תצטערו\"",
+      "name": "ליהי גרינר",
+      "location": "פתח-תקווה"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"את בני בן 10 דנה הצליחה בדרכה המיוחדת לחזק ולהקנות כישורי למידה, ממליץ.\"",
+      "name": "האן טה סול",
+      "location": "קריית-אונו"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"דנה מלווה אותי מזה שלוש שנים, לא הייתי רואה את עצמי עוברת את התיכון בלעדיה, תודה.\"",
+      "name": "יונית לוי",
+      "location": "רמת-אפעל"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "46301 רמת אפעל, רמת-גן",
+    "phone": "052 22 333 45",
+    "email": "danagilad@hotmail.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "הבנה מעמיקה בהתפתחות הילד",
+      "text": "בעלת תואר ראשון בפסיכולוגיה עם התמחות בהתפתחות הילד, עבודת מאסטר בלה בלה"
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "הבנה מעמיקה בהתפתחות הילד",
+      "text": "בעלת תואר ראשון בפסיכולוגיה עם התמחות בהתפתחות הילד, עבודת מאסטר בלה בלה"
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "הבנה מעמיקה בהתפתחות הילד",
+      "text": "בעלת תואר ראשון בפסיכולוגיה עם התמחות בהתפתחות הילד, עבודת מאסטר בלה בלה"
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "הבנה מעמיקה בהתפתחות הילד",
+      "text": "בעלת תואר ראשון בפסיכולוגיה עם התמחות בהתפתחות הילד, עבודת מאסטר בלה בלה"
+    }
+  ]
 }
