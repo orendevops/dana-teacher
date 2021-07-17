@@ -1,5 +1,9 @@
 import { useState } from 'react'
 import emailjs from 'emailjs-com'
+import TextField from '@material-ui/core/TextField';
+import Grid from '@material-ui/core/Grid';
+import AccountCircle from '@material-ui/icons/AccountCircle';
+import AlternateEmailIcon from '@material-ui/icons/AlternateEmail';
 
 const initialState = {
   name: '',
@@ -20,7 +24,7 @@ export const Contact = (props) => {
     console.log(name, email, message)
     emailjs
       .sendForm(
-        'YOUR_SERVICE_ID', 'YOUR_TEMPLATE_ID', e.target, 'YOUR_USER_ID'
+        'service_1sjevko', 'template_ie75hf7', 'user_os', e.target, 'user_essV1uVXwiBpFUKi1nPDE'
       )
       .then(
         (result) => {
@@ -30,6 +34,8 @@ export const Contact = (props) => {
         (error) => {
           console.log(error.text)
         }
+      ).then(
+        alert("ההודעה נשלחה בהצלחה, תודה על פנייתך")
       )
   }
   return (
@@ -41,38 +47,53 @@ export const Contact = (props) => {
               <div className='section-title'>
                 <h2>יצירת קשר</h2>
                 <p>
-                  
+
                   בבקשה למלא את הטופס למטה כדי לשלוח אימייל,
-                   ואני אשיב בהקדם האפשרי.
+                  ואני אשיב בהקדם האפשרי.
                 </p>
               </div>
+
               <form name='sentMessage' validate onSubmit={handleSubmit}>
                 <div className='row'>
                   <div className='col-md-6'>
                     <div className='form-group'>
-                      <input
-                        type='text'
-                        id='name'
-                        name='name'
-                        className='form-control'
-                        placeholder='Name'
-                        required
-                        onChange={handleChange}
-                      />
-                      <p className='help-block text-danger'></p>
+                      <Grid container alignItems="flex-end" >
+                        <Grid item>
+                          <AlternateEmailIcon />
+                        </Grid>
+                        <Grid item>
+                          <TextField
+                            type='email'
+                            required
+                            id='email'
+                            name='email'
+                            label="כתובת דואל"
+                            placeholder='כתובת המייל שלך'
+                            tabIndex="0"
+                            onChange={handleChange}
+                          />
+                        </Grid>
+                      </Grid>
                     </div>
                   </div>
                   <div className='col-md-6'>
-                    <div className='form-group'>
-                      <input
-                        type='email'
-                        id='email'
-                        name='email'
-                        className='form-control'
-                        placeholder='Email'
-                        required
-                        onChange={handleChange}
-                      />
+                    <div >
+                      <Grid container alignItems="flex-end" >
+                        <Grid item>
+                          <AccountCircle />
+                        </Grid>
+                        <Grid item>
+                          <TextField
+                            id="name"
+                            name='name'
+                            label="שם"
+                            placeholder='היי איך קוראים לך?'
+                            required
+
+                            onChange={handleChange}
+                          />
+                        </Grid>
+                      </Grid>
                       <p className='help-block text-danger'></p>
                     </div>
                   </div>
@@ -91,7 +112,7 @@ export const Contact = (props) => {
                 </div>
                 <div id='success'></div>
                 <button type='submit' className='btn btn-custom btn-lg'>
-                  Send Message
+                  שלח הודעה
                 </button>
               </form>
             </div>
@@ -152,7 +173,7 @@ export const Contact = (props) => {
         <div className='container text-center'>
           <p>
             &copy; כל הזכויות שמורות דנה להצלחה{' '}
-           
+
           </p>
         </div>
       </div>

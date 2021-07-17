@@ -51,11 +51,6 @@ export const Navigation = (props) => {
               </a>
             </li>
             <li>
-              <a href='#team' className='page-scroll'>
-                צוות
-              </a>
-            </li>
-            <li>
               <a href='#contact' className='page-scroll'>
                 כל הצלחה מתחילה בשיחה ראשונה
               </a>
